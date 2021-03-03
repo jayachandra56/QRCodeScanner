@@ -88,6 +88,7 @@ public class MainActivity extends AppCompatActivity {
                     QRcodeWidth, QRcodeWidth, null
             );
 
+
         } catch (IllegalArgumentException Illegalargumentexception) {
 
             return null;
